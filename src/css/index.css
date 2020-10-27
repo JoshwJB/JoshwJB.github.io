@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+    @apply text-blue-500 ;
+}
+
+@screen dark {
+    a {
+        @apply text-green-500 ;
+    }    
+}
