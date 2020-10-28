@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-index-tsx","path":"/","result":{"pageContext":{}},"staticQueryHashes":[]}
+{"componentChunkName":"component---src-pages-index-tsx","path":"/","result":{"data":{"blog":{"posts":[{"frontmatter":{"date":"21 hours ago","title":"Awesome Blog Post Title","author":"Joshua Barber"},"excerpt":"Test post Post content","id":"4592ec69-b245-5c63-928b-ddf4ad55516a"}]}},"pageContext":{}},"staticQueryHashes":[]}
