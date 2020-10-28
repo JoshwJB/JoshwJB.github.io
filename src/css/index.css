@@ -3,11 +3,15 @@
 @tailwind utilities;
 
 a {
-    @apply text-blue-500 ;
+    @apply text-blue-500;
 }
 
 @screen dark {
     a {
-        @apply text-green-500 ;
-    }    
+        @apply text-green-500;
+    }
+}
+
+.post p {
+    @apply py-2;
 }
